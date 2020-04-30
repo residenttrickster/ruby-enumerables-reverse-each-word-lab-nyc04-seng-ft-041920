@@ -4,6 +4,6 @@ new_array = []
 array.each do |element|
   element.reverse
 end
-new_array << element.reverse 
+new_array << element.reverse
 new_array
 end
